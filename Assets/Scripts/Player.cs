@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 
-public class Player : MonoBehaviour, IKitchenObjectParent  // 6 00
+public class Player : MonoBehaviour, IKitchenObjectParent  // 6 08
 {
     public static Player Instance { get; private set; }
 
